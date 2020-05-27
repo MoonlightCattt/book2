@@ -8,6 +8,6 @@ docsify init ./docs
 ```
 		敲回车后发现demo文件夹下多了一个文件夹叫：docs
 		
-		以后要新建一本书时就可以在demo文件夹下 Git Bash Here敲
+		
 
 
